@@ -88,13 +88,38 @@ GitHub Explore is a great place to do just that … explore :smile: You can find
 
 You can check out the GitHub Explore website [at github.com/explore](https://github.com/explore). The more you interact with GitHub the more tailored your Explore view will be. 
 
-## 📝 Optional next steps 
+## 📝 TO COMPLETE THIS ASSIGNMENT
 
-* Open a pull request and let your teacher know that you’ve finished this course.  
-* Create a new markdown file in this repository. Let them know what you learned and what you are still confused about! Experiment with different styles!
+### Edit the README file and commit
+* Edit the README file in your repository. Somewhere near the top, write something like, `[your name] was here` (where you replace `[your name]` with your actual name) 
+* Save the file, and then commit it. See the [textbook for instructions on this process](https://neuraldatascience.io/2b-setup/repo_in_vscode.html).
+
+### Practice Markdown
+
+As described in the [textbook](https://neuraldatascience.io/2-nds/markdown.html), Markdown is a simple language for creating rich text out of simple text. It was designed to emulate the basics of HTML for creating web pages, but simpler. 
+
+[You can see a Markdown cheatsheet here](https://www.markdownguide.org/cheat-sheet/)
+
+In a cell below this one, use Markdown to tell us a little bit about yourself. Specifically, tell us:
+- your name
+- a photo of you
+- year
+- major
+- why you enrolled in this course
+- what got you interested in neuroscience /or psychology
+- what your career plans are (or post-graduation plans, if you haven't figured that out yet!)
+
+Impress us with your newfound command of the Markdown language. Use headings above your answers for each question, and maybe throw in some bold or italic text, a list, or something else.
+
+How long should your answers be? Think of it this way: we're asking because we want to get to know you a little, and so that you can demonstrate some facility with Markdown. So you need to produce enough content to meet those goals. But, we have 20 of these to read, and other things to do with our lives. So try to keep it to a length that we'll find interesting and not boring. 
+
+> **TIP**: To add an image, you will first need to add an image file to the repository. The repository lives on your computer in your `Documents/github-classroom` folder --- in there, there will be a folder for this repository, and (in the future) all your other assignment repositories will end up here, each in their own folders.
+
+> Another thing about images: Markdown doesn't let you change the image size. If your image is undesirably huge (or small), you can search the internet for how to use HTML image tags in Markdown to resize an image, or resize the image file on your computer (e.g., in the Preview (Mac) or Paint (Windows)).
+
+### Create Your GitHub Profile README
 * Create your profile README. Let the world know a little bit more about you! What are you interested in learning? What are you working on? What's your favorite hobby? Learn more about creating your profile README in the document, ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
-* Go to your user dashboard and create a new repository. Experiment with the features within that repository to familiarize yourself with them. 
-* [Let us know what you liked or didn’t like about the content of this course](https://support.github.com/contact/education). What would you like to see more of? What would be interesting or helpful to your learning journey? 
+
 
 ## 📚  Resources 
 * [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 

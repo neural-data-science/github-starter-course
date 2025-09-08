@@ -91,14 +91,18 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 ## 📝 TO COMPLETE THIS ASSIGNMENT
 
 ### Part 1: Edit the README file and commit
-* Edit the README file in your repository. Somewhere near the top, write something like, `[your name] was here` (where you replace `[your name]` with your actual name) 
-* Save the file, and then commit it. See the [textbook for instructions on this process](https://neuraldatascience.io/2b-setup/repo_in_vscode.html).
+
+* Edit the README file in this repository.
+* To do this, click on the green `<> Code` button at the top right of this repository’s GitHub page. In the Codespaces tab, click on the green button that says `Create codespace on main` to launch your codespace. This may take a few moments to load.
+* In the codespace, the first button under the 3 bars on the top left is the Explorer. When the Explorer is selected, you will see the "README.md" file. Click on this file, and you will use the editor on the left to make the edit to the README file.
+* Somewhere near the top of the file, write something like, `[your name] was here` (where you replace `[your name]` with your actual name)
+* Save the file, stage the changes, commit them, and then synch the changes. This process is described in the textbook [here](https://neuraldatascience.io/2b-setup/edit_readme.html)
 
 ### Part 2: Practice Markdown and Create Your GitHub Profile README
 
 As described in the [textbook](https://neuraldatascience.io/2-nds/markdown.html), Markdown is a simple language for creating rich text out of simple text. It was designed to emulate the basics of HTML for creating web pages, but simpler.
 
-In this part of the assignment, you will create your profile README. To do this, you will need to follow the instructions ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme). Once you have created your profile README, click on the green `<> Code` button at the top right of this repository’s GitHub page. In the Codespaces tab, click on the green button that says `Create codespace on main` to launch your codespace. This may take a few moments to load. In the codespace, the first button under the 3 bars on the top left is the Explorer. When the Explorer is selected, you will see the "README.md" file. Click on this file, and you will use the editor on the left to make the edits below to your profile README file.
+In this part of the assignment, you will create your profile README. To do this, you will need to follow the instructions ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme). Once you have created your profile README, click on the green `<> Code` button at the top right of this repository’s GitHub page. In the Codespaces tab, click on the green button that says `Create codespace on main` to launch your codespace. When the Explorer is selected, you will see the "README.md" file. Click on this file, and you will use the editor on the left to make the edits below to your profile README file.
 
 Use Markdown to tell us a little bit about yourself. Specifically, tell us:
 - your name
@@ -117,7 +121,7 @@ How long should your answers be? Think of it this way: we're asking because we w
 
 > Another thing about images: Markdown doesn't let you change the image size. If your image is undesirably huge (or small), you can search the internet for how to use HTML image tags in Markdown to resize an image, or resize the image file on your computer (e.g., in the Preview (Mac) or Paint (Windows)).
 
-Once you have made your edits, you will want to stage your changes, commit them, and then sync the changes. This process is described in the textbook [here](https://neuraldatascience.io/2b-setup/edit_readme.html). To check if this is done correctly, go to your GitHub profile page. If the contents of the README file show up at the top of your profile like a welcome message, then you have successfully added your profile README information.
+Once you have made your edits, you will want to stage your changes, commit them, and then sync the changes. To check if this is done correctly, go to your GitHub profile page. If the contents of the README file show up at the top of your profile like a welcome message, then you have successfully added your profile README information.
 
 If you completed Part 1 and Part 2 of this assignment, then you are finished Assignment 1! Congratulations😊
 

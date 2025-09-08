@@ -100,7 +100,7 @@ As described in the [textbook](https://neuraldatascience.io/2-nds/markdown.html)
 
 [You can see a Markdown cheatsheet here](https://www.markdownguide.org/cheat-sheet/)
 
-In a cell below this one, use Markdown to tell us a little bit about yourself. Specifically, tell us:
+At the bottom of this file, use Markdown to tell us a little bit about yourself. Specifically, tell us:
 - your name
 - a photo of you
 - year
